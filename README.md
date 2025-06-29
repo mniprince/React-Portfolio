@@ -1,4 +1,4 @@
-Its A React Portfolio [Live View](https://mniprince.info).
+Its A React Portfolio [Live View](https://princefullstack.com).
 
 ![20240225_020119(691)](https://github.com/mniprince/React-Portfolio/assets/40088619/dcb66e41-988c-4564-ade7-ba12a977a403)
 ![20240225_020235(658)](https://github.com/mniprince/React-Portfolio/assets/40088619/4f33893e-1943-4557-b8d5-5ae85bb51110)
